@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RouletteGame
+  m_EditorClassIdentifier: 
+  m_GroupName: RouletteGame
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b75aaa7a11cfd4607a31e8c827d6ad76
+  m_SerializeEntries:
+  - m_GUID: 7c2ed56dae67547f1b120505ae0db9c0
+    m_Address: Assets/Data/Variations/Barbeque_Variation.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - variation
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 811cba6763ec6413b8e8ff2fd0f3e960
+    m_Address: Assets/Art/Atlases/UI_Rewards.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - reward
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a4937a3953dd4142afa707472399fb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cb91aedd036f24ec2aab089c765f12e4, type: 2}
+    - {fileID: 11400000, guid: 26aa35100c2da4ef6bed3b0db970495a, type: 2}

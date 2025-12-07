@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4284582003d614cff862bf6b138706a2, type: 3}
+  m_Name: Default_Slot_Appearance
+  m_EditorClassIdentifier: 
+  normalBackground: {fileID: 21300000, guid: ea6a6b545de6a402c831a68c8e008717, type: 3}
+  glowSprite: {fileID: 21300000, guid: 7debe9fe66fa04474801e454e86267e4, type: 3}
+  rewardReceived: {fileID: 21300000, guid: 94575b2d0110042d29f0c1a721057b16, type: 3}
+  completedState: {fileID: 21300000, guid: 57c7d6976a4c5404499a23ffdba946b2, type: 3}

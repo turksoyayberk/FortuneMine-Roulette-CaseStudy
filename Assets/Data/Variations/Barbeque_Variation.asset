@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b154bb7623e348d89b91b34d07035d4, type: 3}
+  m_Name: Barbeque_Variation
+  m_EditorClassIdentifier: 
+  displayName: BARBEQUE PARTY
+  background: {fileID: 21300000, guid: f98dcd9a0da0c4a638ab2e40b3e0056d, type: 3}
+  slotAppearance: {fileID: 11400000, guid: 56631211099034734be376a9692f7525, type: 2}
+  layout: {fileID: 11400000, guid: 0aacfd79e7f244f0fbf52b12599429dd, type: 2}
+  slotDatas:
+  - rewardData: {fileID: 11400000, guid: 235e859a90ba1469fa11d7420b68293b, type: 2}
+  - rewardData: {fileID: 11400000, guid: a1f30a36e2cd44827a9a96c832c045d5, type: 2}
+  - rewardData: {fileID: 11400000, guid: d1f5cdc27cb1e4e1da12d3daee16b0b7, type: 2}
+  - rewardData: {fileID: 11400000, guid: 4df96b96081ee47058f2752f246ddd94, type: 2}
+  - rewardData: {fileID: 11400000, guid: abd9be40e71ba4238981fe3917535696, type: 2}
+  - rewardData: {fileID: 11400000, guid: 356bbb8e4b9444ba58b8676583e50d6b, type: 2}
+  - rewardData: {fileID: 11400000, guid: a7eb318157f35420ab160a4a52f7effd, type: 2}
+  - rewardData: {fileID: 11400000, guid: 4160d7e0f2f09455bae51422ee7b006c, type: 2}
+  - rewardData: {fileID: 11400000, guid: db2afaf7a05f341a584f6baf70b547bb, type: 2}
+  - rewardData: {fileID: 11400000, guid: 1fc85943dabc54fb4b7c5ddc9003dcfc, type: 2}
+  - rewardData: {fileID: 11400000, guid: 129fc6b32447747adaa86c5ecd72f42f, type: 2}
+  - rewardData: {fileID: 11400000, guid: f1a980705ee294f8abc7ca3b4f4d4b6a, type: 2}
+  - rewardData: {fileID: 11400000, guid: 82893cb9b228b42a2a9f169e6abdd624, type: 2}
+  - rewardData: {fileID: 11400000, guid: afecdf2e5bd4442d3bc7ed8716bdee43, type: 2}
+  minStepDelay: 0.1
+  maxStepDelay: 0.25
+  minLoops: 1
+  maxLoops: 3
